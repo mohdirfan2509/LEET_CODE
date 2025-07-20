@@ -1,8 +1,3 @@
--- SELECT name 
--- FROM Employee emp1, Employee emp2
--- WHERE  
-
-
 SELECT
   emp1.name AS Employee  
 FROM 
