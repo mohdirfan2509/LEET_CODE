@@ -14,6 +14,5 @@ public:
             else p2--;
         }
         return maxArea;
-        
     }
 };
