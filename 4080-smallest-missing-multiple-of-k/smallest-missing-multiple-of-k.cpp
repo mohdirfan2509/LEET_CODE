@@ -8,7 +8,7 @@ public:
         }
         
         int v=1;
-        while(us.find(v*k)!= us.end()){
+        while(us.count(v*k)){
             v++;
         }
         return v*k;
